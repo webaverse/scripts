@@ -1,7 +1,7 @@
 const https = require('https');
 const fetch = require('node-fetch');
 
-const nftStorageApiKey = ``;
+const nftStorageApiKey = ``; // fill this in
 
 (async () => {
   const tokens = [];
