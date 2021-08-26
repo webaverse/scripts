@@ -1,0 +1,26 @@
+{
+  "name": "scripts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webaverse/scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webaverse/scripts/issues"
+  },
+  "homepage": "https://github.com/webaverse/scripts",
+  "browserslist": [
+    "last 1 chrome version"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
